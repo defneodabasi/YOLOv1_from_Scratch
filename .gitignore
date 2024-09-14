@@ -1,0 +1,15 @@
+/archive/
+/custom_dataset/
+/2_class.pth/
+/1_images_per_class.csv
+/1_per_class.pth.tar
+/2_class.pth.tar
+/2_class_1.pth.tar
+/2_class_2.pth.tar
+/5_images_per_class.csv
+/10_images_per_class.csv
+/15_images_per_class.csv
+/20_epochs_20_classes.pth.tar
+/50_epochs_20_classes.pth.tar
+/SİL.py
+.idea/
